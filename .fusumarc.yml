@@ -1,0 +1,22 @@
+meta:
+  url: https://hiroppy.github.io/fusuma/intro/
+  title: What's Fusuma?
+  description: Introduce Fusuma
+  siteName: hiroppy.me
+  sns: ['twitter']
+slide:
+  ui:
+    pagination:
+  code:
+    languages:
+      - yaml
+      - json
+      - markdown
+      - javascript
+      - css
+      - jsx
+      - shell
+extends:
+  js: index.js
+build:
+  useCache: false
